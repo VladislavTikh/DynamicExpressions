@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\учеба\EPAM .NET labs\Expressions\ExpressionLogic\bin\Debug\ExpressionLogic.dll
+C:\Users\lenovo\Desktop\учеба\EPAM .NET labs\Expressions\ExpressionLogic\bin\Debug\ExpressionLogic.pdb
+C:\Users\lenovo\Desktop\учеба\EPAM .NET labs\Expressions\ExpressionLogic\obj\Debug\ExpressionLogic.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\учеба\EPAM .NET labs\Expressions\ExpressionLogic\obj\Debug\ExpressionLogic.dll
+C:\Users\lenovo\Desktop\учеба\EPAM .NET labs\Expressions\ExpressionLogic\obj\Debug\ExpressionLogic.pdb
+C:\Users\lenovo\Desktop\учеба\EPAM .NET labs\Expressions\ExpressionLogic\obj\Debug\ExpressionLogic.csprojAssemblyReference.cache
